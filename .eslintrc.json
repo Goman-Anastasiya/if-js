@@ -11,6 +11,8 @@
     "sourceType": "module"
   },
   "rules": {
-    "prefer-const": 1
+    "prefer-const": 1,
+    "semi" : ["error", "always"],
+    "no-var" : "error"
   }
 }
